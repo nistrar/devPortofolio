@@ -115,7 +115,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Technical University of Cluj-Napoca",
-      logo: require("./assets/images/utcluj.jpg"),
+      logo: require("./assets/images/ucluj.png"),
       subHeader: "Bachelor in Computer Science",
       duration: "September 2009 - June 2013",
     },
