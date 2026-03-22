@@ -2,7 +2,7 @@
   font-family: "Agustina Regular";
   font-style: normal;
   font-weight: normal;
-  src: local("Agustina Regular"),
+  src: local("Consolas"),
     url("./assets/fonts/Agustina.woff") format("woff");
   font-display: swap;
 }
