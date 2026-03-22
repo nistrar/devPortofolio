@@ -32,15 +32,11 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  /* Your Social Media Link */
   github: "https://github.com/nistrar",
   linkedin: "https://www.linkedin.com/in/nistrar/",
-  gmail: "costea.dan.cristian@gmail.com",
-  gitlab: "https://gitlab.com/nistrar",
-  facebook: "https://www.facebook.com/nistrar",
-  gmail: "costea.dan.cristian@gmail.com",
   display: true
 };
+
 // Skills Section
 
 const skillsSection = {
