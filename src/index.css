@@ -1,12 +1,4 @@
 @font-face {
-  font-family: "Consolas";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Consolas"),
-    url("./assets/fonts/Agustina.woff") format("woff");
-  font-display: swap;
-}
-@font-face {
   font-family: "Montserrat";
   src: local("Montserrat"),
     url("./assets/fonts/Montserrat-Regular.ttf") format("woff");
