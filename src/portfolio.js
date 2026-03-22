@@ -24,7 +24,8 @@ const greeting = {
   title: "Hi all I'm 'Dan'",
   username: "Dan-Cristian Costea",
   subTitle: emoji("Software Engineer 🚀"),
-  resumeLink: "https://drive.google.com/file/d/1Fzl9BIv8lM21gxtSZ_fLGitXOsJjFiyK/view?usp=drive_link"
+  resumeLink: "https://drive.google.com/file/d/1Fzl9BIv8lM21gxtSZ_fLGitXOsJjFiyK/view?usp=drive_link",
+  displayGreeting: true
 };
 
 
@@ -116,7 +117,7 @@ https://fontawesome.com/icons?d=gallery */
 // Education Section
 
 const educationInfo = {
-  display: true, // Set false to hide this section, defaults to true
+  display: false, // Set false to hide this section, defaults to true
   schools: [
     {
       schoolName: "Harvard University",
@@ -164,7 +165,7 @@ const techStack = {
 // Work experience section
 
 const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
+  display: false, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Software Engineer",
@@ -232,7 +233,7 @@ const bigProjects = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
@@ -293,7 +294,7 @@ const achievementSection = {
       ]
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
