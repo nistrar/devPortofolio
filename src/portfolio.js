@@ -34,6 +34,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/nistrar",
   linkedin: "https://www.linkedin.com/in/nistrar/",
+  stackoverflow: "https://stackoverflow.com/users/7173183/nistrar",
   display: true
 };
 
