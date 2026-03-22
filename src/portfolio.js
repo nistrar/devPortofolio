@@ -149,14 +149,14 @@ const workExperiences = {
       company: "Siemens Digital Industries Software",
       companylogo: require("./assets/images/siemens.png"),
       date: "March 2026 – Present",
-      desc: "Safety Engineering for Automotive and Aerospace industry."
+      desc: "Safety Engineering for Automation Systems in the manufacturing industry."
     },
     {
       role: "Software Engineer II",
       company: "Selmo Technology",
       companylogo: require("./assets/images/selmo.png"),
       date: "May 2022 – December 2025",
-      desc: "Developed a Low Code Solution for generation of PLC code."
+      desc: "Developed a Low Code Solution for Automation Industry."
     },
     {
       role: "Software Engineer",
@@ -170,14 +170,14 @@ const workExperiences = {
       company: "SSI Schäfer IT Solutions",
       companylogo: require("./assets/images/ssi.jpg"),
       date: "Feb 2016 – Feb 2018",
-      desc: "Maintanence and development of a WAMAS system for the logistics industry."
+      desc: "Maintanence and development of WAMAS system for the logistics industry."
     },
     {
       role: "Junior Software Intern",
       company: "NTT Data Romania",
       companylogo: require("./assets/images/ntt-data.jpg"),
       date: "Sep 2012 – Dec 2013",
-      desc: "Maintenance of the Intern website with Sharepont"
+      desc: "Maintenance of the Intern website with Sharepoint"
     }
   ]
 };
